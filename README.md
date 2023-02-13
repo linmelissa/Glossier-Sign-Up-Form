@@ -8,3 +8,6 @@ Sign-up form created to feature Glossier's new Balm Dotcom. Features various for
 <p align="center">
   <img src="/images/preview.png">
 </p>
+
+## TO-DO
+- Remake with mobile first approach
