@@ -10,4 +10,4 @@ Sign-up form created to feature Glossier's new Balm Dotcom. Features various for
 </p>
 
 ## TO-DO
-- Remake with mobile first approach to accomodate for various screen sizes
+- Remake with mobile first approach to accommodate for various screen sizes
